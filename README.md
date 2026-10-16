@@ -1,7 +1,7 @@
 # Technical Analysis of Log4Shell (CVE-2021-44228)
 
 #### Video Presentation
-- **YouTube Link:** https://youtu.be/8KvswqvtuBY
+- **YouTube Link:** https://youtu.be/PxR7mg0UEkM
 
 ## Overview
 This project delivers a comprehensive technical analysis of **Log4Shell (CVE-2021-44228)**, a critical Remote Code Execution (RCE) vulnerability in the Apache Log4j2 logging framework (CVSS 10.0 Critical).
